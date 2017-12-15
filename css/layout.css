@@ -38,6 +38,7 @@
 
 #shoe-container {
   width: 100%;
+  float: left;
 }
 
 .col-1-1-3 {
